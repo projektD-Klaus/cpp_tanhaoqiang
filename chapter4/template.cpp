@@ -24,3 +24,10 @@ int main(int argc, char const *argv[]) {
 
     return 0;
 }
+
+/*
+template <class T1,typename T2>
+可以看到，用函数模板比函数重载更方便，程序更
+简洁。但应注意它只适用于函数的参数个数相同而
+类型不同，且函数体相同的情况，如果参数的个数
+不同，则不能用函数模 */

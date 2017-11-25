@@ -12,7 +12,7 @@ int main(int argc, char const *argv[]) {
     {
         for(int j=0; j<2; j++)
         cout << b[i][j] << " ";
-    cout << endl;    
+    cout << endl;
     }
 
 
